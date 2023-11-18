@@ -25,8 +25,7 @@ Network administration zeroes in on switching technologies and router operations
 
 | Name         | Title      |
 | ------------ | ---------- |
-| [Hands-on Activity 0](https://github.com/Itanaki/Itanaki.github.io/blob/cf92e23d9410f9fe04af95526aaa8c1780cad8a5/Activity%200%20-%20Creating%20Virtual%20Machines%20in%20Microsoft%20Azure%20(Padual).pdf
-)   | Creating Virtual Machines   |
+| [Hands-on Activity 0](https://github.com/Itanaki/Itanaki.github.io/blob/cf92e23d9410f9fe04af95526aaa8c1780cad8a5/Activity%200%20-%20Creating%20Virtual%20Machines%20in%20Microsoft%20Azure%20(Padual).pdf)   | Creating Virtual Machines   |
 | [Hands-on Activity 2]()   | SSH Key-Based Authentication and GIT Setup  |
 | [Hands-on Activity 3]()   | Install SSH Server on CentOS and RHEL 8    |
 | [Hands-on Activity 4]()   | Ansible Basics    |

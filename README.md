@@ -16,6 +16,22 @@ As a prospective system administrator/network administrator, my enthusiasm for t
 
 | Name         | Title      |
 | ------------ | ---------- |
-| John Doe     | Manager    |
-| Jane Smith   | Developer  |
+| Hands-on Activity 0   | Creating Virtual Machines   |
+| Hands-on Activity 2   | SSH Key-Based Authentication and GIT Setup  |
+| Hands-on Activity 3   | Install SSH Server on CentOS and RHEL 8    |
+| Hands-on Activity 4   | Manager    |
+| Hands-on Activity 5   | Manager    |
+| Major Examination   | Manager    |
+| Hands-on Activity 6   | Manager    |
+| Hands-on Activity 7   | Manager    |
+| Hands-on Activity 8   | Manager    |
+| Hands-on Activity 9   | Manager    |
+| Hands-on Activity 10   | Manager    |
+| Major Examination  | Manager    |
+| Hands-on Activity 11   | Manager    |
+| Hands-on Activity 12  | Manager    |
+| Hands-on Activity 13   | Manager    |
+| Hands-on Activity 14   | Manager    |
+| Hands-on Activity 15   | Manager    |
+| Major Examination   | Manager    |
 ****

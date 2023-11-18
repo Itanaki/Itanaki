@@ -1,16 +1,16 @@
 # Hi 👋, I'm Enzo Daren B. Padual
 
-As a prospective system administrator/network administrator, my enthusiasm for technology fuels my desire to comprehend and innovate within this field. Although my proficiency in Switching, Routing, and Wireless Essentials is currently at an amateur level, I have acquired valuable experience over the past two years of my course. During this time, I've gained hands-on knowledge in implementing both software and hardware systems, allowing me to successfully undertake projects that integrate these concepts. My commitment to continuous learning in technology remains steadfast, and I am determined to enhance my skills in system administration as I embrace new technological advancements.
+My passion for technology fires me up to understand and develop in the system administration/network administration field since I aspire to be a prospective one. Despite the fact that as yet I am merely a novice in Switching, Routing, and Wireless Essentials, I gained substantial knowledge in my current year of study. So far, I’ve acquired practical experience on how to implement both software and hardware systems which have enabled me to handle projects blending these ideas. I am still committed to continuing in technology learning, and I want to improve on system administration to cope with future improvements in technology.
 
 # Learnings
 
 ## 🧑‍💻Scripting and Automation
 
-Scripting and Automation play pivotal roles in system administration, addressing the challenge of repetitive and time-intensive tasks. System administrators frequently leverage scripting languages like Python, Bash, or PowerShell to automate routine processes, enhancing overall efficiency in managing and maintaining systems.
+Scripting and automation in the system administration confront the difficulty of repeated, strenuous work. Most often, the tasks related to management and maintaining system are automated by a means of using script languages like Python, BASH or PowerShell that system administrators apply.
 
 ## 🛜🚆Network Administration
 
-Network administration zeroes in on switching technologies and router operations essential for sustaining small-to-medium business networks. This encompasses the management of wireless local area networks (WLAN) along with a comprehensive understanding of security concepts to ensure the robust functioning and safeguarding of network infrastructures.
+Switching technologies needed for maintaining SMN are covered by network administration, which concentrates on them. Here, we are talking about the management of WLAN together with an overall view on different security concepts to maintain a reliable functionality as well as protection against misuse of network facilities.
 
 # Current Studies
 

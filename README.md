@@ -30,7 +30,7 @@ Network administration zeroes in on switching technologies and router operations
 | [Hands-on Activity 3](https://github.com/Itanaki/Itanaki.github.io/blob/5e761d2ad07c3fe2e757eba9423b7c60f8ef8635/Activity%203%20-%20Install%20SSH%20server%20on%20CentOS%20or%20RHEL%208.pdf)   | Install SSH Server on CentOS and RHEL 8    |
 | [Hands-on Activity 4]()   | Ansible Basics    |
 | [Hands-on Activity 5]()   | Implement Ansible Roles in Playbooks    |
-| [Major Examination]()   | Prelim Examination    |
+| [Major Examination](https://github.com/Itanaki/Padual_PrelimExam)   | Prelim Examination    |
 | [Hands-on Activity 6]()   | Targeting Specific Nodes    |
 | [Hands-on Activity 7]()   | Managing Files and Creating Roles in Ansible    |
 | [Hands-on Activity 8]()   | Install, Configure, and Manage Enterprise Availability Monitoring via Ansible   |

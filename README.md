@@ -4,11 +4,11 @@ As a prospective system administrator/network administrator, my enthusiasm for t
 
 # Learnings
 
-## Scripting and Automation
+## 🧑‍💻Scripting and Automation
 
 Scripting and Automation play pivotal roles in system administration, addressing the challenge of repetitive and time-intensive tasks. System administrators frequently leverage scripting languages like Python, Bash, or PowerShell to automate routine processes, enhancing overall efficiency in managing and maintaining systems.
 
-## Network Administration
+## 🛜🚆Network Administration
 
 Network administration zeroes in on switching technologies and router operations essential for sustaining small-to-medium business networks. This encompasses the management of wireless local area networks (WLAN) along with a comprehensive understanding of security concepts to ensure the robust functioning and safeguarding of network infrastructures.
 

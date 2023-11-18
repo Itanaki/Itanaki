@@ -21,7 +21,7 @@ Network administration zeroes in on switching technologies and router operations
 - 📫 How to reach me: [qedbpadual@tip.edu.ph](mailto:qedbpadual@tip.edu.ph)
 
 
-## Name and Title Table
+## Projects
 
 | Name         | Title      |
 | ------------ | ---------- |

@@ -14,7 +14,7 @@ Network administration zeroes in on switching technologies and router operations
 
 # Current Studies
 
-- 🌱 I’m currently studying about **Managing Enterprise Servers and CCNA: Switching, Routing, and Wireless Essentials**
+- 🌱 I’m currently studying **Managing Enterprise Servers and CCNA: Switching, Routing, and Wireless Essentials**
   
 # Contact Information
 

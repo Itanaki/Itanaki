@@ -10,6 +10,47 @@
 - 📫 How to reach me **qedbpadual@tip.edu.ph**
 
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Name and Title Table</title>
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 50%;
+            margin: 20px;
+        }
+
+        th, td {
+            border: 1px solid #dddddd;
+            text-align: left;
+            padding: 8px;
+        }
+    </style>
+</head>
+<body>
+
+    <table>
+        <tr>
+            <th>Name</th>
+            <th>Title</th>
+        </tr>
+        <tr>
+            <td>John Doe</td>
+            <td>Manager</td>
+        </tr>
+        <tr>
+            <td>Jane Smith</td>
+            <td>Developer</td>
+        </tr>
+        <!-- Add more rows as needed -->
+    </table>
+
+</body>
+</html>
+
 
 
 </p>

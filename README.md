@@ -33,10 +33,10 @@ Network administration zeroes in on switching technologies and router operations
 | [Major Examination](https://github.com/Itanaki/Padual_PrelimExam)   | Prelim Examination    |
 | [Hands-on Activity 6]()   | Targeting Specific Nodes    |
 | [Hands-on Activity 7]()   | Managing Files and Creating Roles in Ansible    |
-| [Hands-on Activity 8]()   | Install, Configure, and Manage Enterprise Availability Monitoring via Ansible   |
-| [Hands-on Activity 9]()   | Install, Configure, and Manage Enterprise Performance Monitoring via Ansible    |
-| [Hands-on Activity 10]()   | Install, Configure, and Manage Enterprise Log Monitoring via Ansible    |
-| [Major Examination]()  | Midterm Examination    |
+| [Hands-on Activity 8](https://github.com/Itanaki/HOA8)   | Install, Configure, and Manage Enterprise Availability Monitoring via Ansible   |
+| [Hands-on Activity 9](https://github.com/Itanaki/HOA9)   | Install, Configure, and Manage Enterprise Performance Monitoring via Ansible    |
+| [Hands-on Activity 10](https://github.com/Itanaki/HOA10)   | Install, Configure, and Manage Enterprise Log Monitoring via Ansible    |
+| [Major Examination](https://github.com/Itanaki/CPE_MIDEXAM_PADUAL)  | Midterm Examination    |
 | [Hands-on Activity 11]()   | Containerization    |
 | [Hands-on Activity 12]()  | Build a Sample Web App in a Docker Container    |
 | [Hands-on Activity 13]()   | OpenStack Prerequisite Installation    |

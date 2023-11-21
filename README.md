@@ -1,6 +1,6 @@
 # Hi 👋, I'm Enzo Daren B. Padual
 
-My passion for technology fires me up to understand and develop in the system administration/network administration field since I aspire to be a prospective one. Despite the fact that as yet I am merely a novice in Switching, Routing, and Wireless Essentials, I gained substantial knowledge in my current year of study. So far, I’ve acquired practical experience on how to implement both software and hardware systems which have enabled me to handle projects blending these ideas. I am still committed to continuing in technology learning, and I want to improve on system administration to cope with future improvements in technology.
+My passion for technology fires me up in understanding and developing something around the system administration/network administration field since I aspire to be a prospective one. Despite the fact that as yet I am merely a novice in Switching, Routing, and Wireless Essentials, I gained substantial knowledge in my current year of study. So far, I’ve acquired practical experience on how to implement both software and hardware systems which have enabled me to handle projects blending these ideas. I am still committed to continuing in technology learning, and I want to improve on system administration to cope with future improvements in technology.
 
 # Learnings
 

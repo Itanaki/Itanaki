@@ -40,7 +40,7 @@ Switching technologies needed for maintaining SMN are covered by network adminis
 | [Hands-on Activity 9](https://github.com/Itanaki/HOA9)   | Install, Configure, and Manage Enterprise Performance Monitoring via Ansible    |
 | [Hands-on Activity 10](https://github.com/Itanaki/HOA10)   | Install, Configure, and Manage Enterprise Log Monitoring via Ansible    |
 | [Major Examination](https://github.com/Itanaki/CPE_MIDEXAM_PADUAL)  | Midterm Examination    |
-| [Hands-on Activity 11]()   | Containerization    |
+| [Hands-on Activity 11](https://github.com/Itanaki/HOA11)   | Containerization    |
 | [Hands-on Activity 12]()  | Build a Sample Web App in a Docker Container    |
 | [Hands-on Activity 13]()   | OpenStack Prerequisite Installation    |
 | [Hands-on Activity 14]()   | OpenStack Installation (Keystone, Glance, Nova)    |

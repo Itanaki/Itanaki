@@ -43,7 +43,7 @@ Switching technologies needed for maintaining SMN are covered by network adminis
 | [Hands-on Activity 11](https://github.com/Itanaki/HOA11)   | Containerization    |
 | [Hands-on Activity 12](https://github.com/Itanaki/HOA12)  | Build a Sample Web App in a Docker Container    |
 | [Hands-on Activity 13](https://github.com/Itanaki/HOA13)   | OpenStack Prerequisite Installation    |
-| [Hands-on Activity 14]()   | OpenStack Installation (Keystone, Glance, Nova)    |
+| [Hands-on Activity 14](https://github.com/Itanaki/HOA14_Ub)   | OpenStack Installation (Keystone, Glance, Nova)    |
 | [Hands-on Activity 15]()   | OpenStack Installation (Neutron, Horizon, Cinder)    |
 | [Major Examination]()   | Final Examination    |
 ****

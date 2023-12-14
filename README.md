@@ -34,7 +34,7 @@ Switching technologies needed for maintaining SMN are covered by network adminis
 | [Hands-on Activity 4]()   | Ansible Basics    |
 | [Hands-on Activity 5]()   | Implement Ansible Roles in Playbooks    |
 | [Major Examination](https://github.com/Itanaki/Padual_PrelimExam)   | Prelim Examination    |
-| [Hands-on Activity 6]()   | Targeting Specific Nodes    |
+| [Hands-on Activity 6](https://github.com/Itanaki/HOA6)   | Targeting Specific Nodes    |
 | [Hands-on Activity 7](https://github.com/Itanaki/HOA7)   | Managing Files and Creating Roles in Ansible    |
 | [Hands-on Activity 8](https://github.com/Itanaki/HOA8)   | Install, Configure, and Manage Enterprise Availability Monitoring via Ansible   |
 | [Hands-on Activity 9](https://github.com/Itanaki/HOA9)   | Install, Configure, and Manage Enterprise Performance Monitoring via Ansible    |

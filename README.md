@@ -31,8 +31,8 @@ Switching technologies needed for maintaining SMN are covered by network adminis
 | [Hands-on Activity 0](https://github.com/Itanaki/Itanaki.github.io/blob/cf92e23d9410f9fe04af95526aaa8c1780cad8a5/Activity%200%20-%20Creating%20Virtual%20Machines%20in%20Microsoft%20Azure%20(Padual).pdf)   | Creating Virtual Machines   |
 | [Hands-on Activity 2](https://github.com/Itanaki/Itanaki.github.io/blob/5e761d2ad07c3fe2e757eba9423b7c60f8ef8635/Activity%202%20-%20SSH%20Key-Based%20Authentication%20and%20GIT%20Setup-1%20(padual).pdf)   | SSH Key-Based Authentication and GIT Setup  |
 | [Hands-on Activity 3](https://github.com/Itanaki/Itanaki.github.io/blob/5e761d2ad07c3fe2e757eba9423b7c60f8ef8635/Activity%203%20-%20Install%20SSH%20server%20on%20CentOS%20or%20RHEL%208.pdf)   | Install SSH Server on CentOS and RHEL 8    |
-| [Hands-on Activity 4]()   | Ansible Basics    |
-| [Hands-on Activity 5]()   | Implement Ansible Roles in Playbooks    |
+| [Hands-on Activity 4](https://github.com/Itanaki/HOA4)   | Ansible Basics    |
+| [Hands-on Activity 5](https://github.com/Itanaki/HOA5)   | Implement Ansible Roles in Playbooks    |
 | [Major Examination](https://github.com/Itanaki/Padual_PrelimExam)   | Prelim Examination    |
 | [Hands-on Activity 6](https://github.com/Itanaki/HOA6)   | Targeting Specific Nodes    |
 | [Hands-on Activity 7](https://github.com/Itanaki/HOA7)   | Managing Files and Creating Roles in Ansible    |

@@ -23,6 +23,8 @@ Switching technologies needed for maintaining SMN are covered by network adminis
 # Languages and Tools I use:
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
 
+# Reflection:
+The completion of these tasks and activities, as well as the big examination, has left me eager. The passionate approach I've been adopting has been the best decision I've made while taking this course. This compilation serves as my determination as I complete this course and progress to the next level of understanding about this subject. The information and skills I've gained will serve as my foundation while I pursue the profession I want after graduation. This website will serve as a record of my efforts as I go on to the next chapter of my book.
 
 ## Projects
 

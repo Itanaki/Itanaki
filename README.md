@@ -28,7 +28,7 @@ Switching technologies needed for maintaining SMN are covered by network adminis
 # Reflection:
 The completion of these tasks and activities, as well as the big examination, has left me eager. The passionate approach I've been adopting has been the best decision I've made while taking this course. This compilation serves as my determination as I complete this course and progress to the next level of understanding about this subject. The information and skills I've gained will serve as my foundation while I pursue the profession I want after graduation. This website will serve as a record of my efforts as I go on to the next chapter of my book.
 
-[![Enzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Itanaki)](https://github.com/Itanaki/github-readme-stats)
+<p><img align="left" [![Enzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Itanaki)](https://github.com/Itanaki/github-readme-stats) /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Itanaki&show_icons=true&locale=en&layout=compact" alt="Itanaki" /></p>
 
 ## Projects
